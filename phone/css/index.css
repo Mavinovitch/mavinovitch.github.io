@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E9;
-	background-color: #201A48;
+	color: #0000F1;
+	background-color: #4E6303;
 }
 
 @-ms-viewport
@@ -37,18 +37,13 @@
 #page
 {
 	z-index: 1;
-	width: 1080px;
-	min-height: 1919.9999999999955px;
+	width: 695px;
+	min-height: 1743.8000000000002px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
-}
-
-#page_position_content
-{
-	width: 0.01px;
+	padding: 105px 192px 71.19999999999982px 193px;
 }
 
 #slideshowu484
@@ -56,8 +51,7 @@
 	z-index: 2;
 	width: 0.01px;
 	height: 0px;
-	margin-left: 255px;
-	margin-top: 105px;
+	margin-left: 62px;
 	position: relative;
 }
 
@@ -183,26 +177,36 @@
 	z-index: 28;
 	display: block;
 	vertical-align: top;
-	margin-left: 193px;
-	margin-top: 1406px;
+	left: -1px;
+	margin-top: 1795px;
 	position: relative;
+}
+
+#u664
+{
+	z-index: 35;
+	width: 102px;
+	background-color: transparent;
+	position: fixed;
+	top: 2066px;
+	left: 215px;
 }
 
 #ppu663
 {
 	width: 0.01px;
-	margin-left: 215px;
-	margin-top: 10px;
+	margin-left: 22px;
+	margin-top: 9px;
 }
 
 #u663
 {
-	z-index: 34;
+	z-index: 33;
 	height: 72px;
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1693px;
+	top: 2081px;
 	left: 328px;
 	background: url("../../images/u663.png") no-repeat 0px 0px;
 }
@@ -214,30 +218,20 @@
 
 #u679
 {
-	z-index: 53;
+	z-index: 52;
 	width: 520px;
 	height: 102px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u664
-{
-	z-index: 36;
-	width: 102px;
-	background-color: transparent;
-	position: fixed;
-	top: 1678px;
-	left: 215px;
-}
-
 #u666
 {
-	z-index: 38;
+	z-index: 37;
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1794px;
+	top: 2182px;
 	left: 215px;
 }
 
@@ -254,18 +248,18 @@
 #ppu668
 {
 	width: 0.01px;
-	margin-left: 215px;
+	margin-left: 22px;
 	margin-top: 14px;
 }
 
 #u668
 {
-	z-index: 41;
+	z-index: 40;
 	height: 72px;
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1809px;
+	top: 2197px;
 	left: 328px;
 	background: url("../../images/u668.png") no-repeat 0px 0px;
 }
@@ -277,7 +271,7 @@
 
 #u680
 {
-	z-index: 54;
+	z-index: 53;
 	width: 650px;
 	height: 102px;
 	position: relative;
@@ -287,18 +281,18 @@
 #ppu669
 {
 	width: 0.01px;
-	margin-left: 215px;
+	margin-left: 22px;
 	margin-top: 29px;
 }
 
 #u669
 {
-	z-index: 44;
+	z-index: 43;
 	height: 72px;
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1925px;
+	top: 2313px;
 	left: 328px;
 	background: url("../../images/u669.png") no-repeat 0px 0px;
 }
@@ -310,7 +304,7 @@
 
 #u681
 {
-	z-index: 55;
+	z-index: 54;
 	width: 436px;
 	height: 72px;
 	position: relative;
@@ -320,18 +314,18 @@
 #ppu670
 {
 	width: 0.01px;
-	margin-left: 215px;
+	margin-left: 22px;
 	margin-top: 38px;
 }
 
 #u670
 {
-	z-index: 47;
+	z-index: 46;
 	height: 72px;
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 2041px;
+	top: 2429px;
 	left: 328px;
 	background: url("../../images/u670.png") no-repeat 0px 0px;
 }
@@ -343,20 +337,14 @@
 
 #u682
 {
-	z-index: 56;
+	z-index: 55;
 	width: 436px;
 	height: 83px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u702
-{
-	z-index: 32;
-	height: 2189px;
-}
-
-.ie #u679,.ie #u680,.ie #u681,.ie #u682,.ie #u702
+.ie #u679,.ie #u680,.ie #u681,.ie #u682
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
@@ -364,43 +352,27 @@
 	filter: alpha(opacity=1);
 }
 
-#u702-bw
-{
-	z-index: 32;
-	margin-top: -2118px;
-	margin-bottom: -2118px;
-	height: 2189px;
-}
-
-#pu671
-{
-	width: 0.01px;
-	padding-bottom: 193px;
-	margin-left: 215px;
-	margin-top: -264px;
-}
-
 #u671
 {
-	z-index: 49;
+	z-index: 48;
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1925px;
+	top: 2313px;
 	left: 215px;
 }
 
 #u673
 {
-	z-index: 51;
+	z-index: 50;
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 2035px;
+	top: 2423px;
 	left: 215px;
 }
 
-.js #u663.ose_pre_init,.js #u664.ose_pre_init,.js #u666.ose_pre_init,.js #u668.ose_pre_init,.js #u669.ose_pre_init,.js #u670.ose_pre_init,.js #u671.ose_pre_init,.js #u673.ose_pre_init
+.js #u664.ose_pre_init,.js #u663.ose_pre_init,.js #u666.ose_pre_init,.js #u668.ose_pre_init,.js #u669.ose_pre_init,.js #u670.ose_pre_init,.js #u671.ose_pre_init,.js #u673.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";

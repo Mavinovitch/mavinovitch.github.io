@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513876807936">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513877268313">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3911195208" ref="phone>index"/>
+      <file name="index.css" crc="4048446211" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4050716202" seo="true" mt="1513876795676" redirect="true"/>
+    <file name="index.html" crc="4139587018" seo="true" mt="1513877258373" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="453118709"/>
@@ -22,7 +22,7 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="108762733" ref="phone>index"/>
-    <file name="dsc01056-hdr.jpg" crc="290951775" seo="true" ref="index:phone>index"/>
+    <file name="dsc01056-hdr.jpg" crc="410784310" seo="true" ref="index:phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
     <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index:phone>index"/>
     <file name="dsc09451.jpg" crc="237111820" seo="true" ref="index:phone>index"/>
