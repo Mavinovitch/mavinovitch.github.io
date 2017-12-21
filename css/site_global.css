@@ -117,12 +117,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.No-pink-link a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .No-pink-link a:link
 {
 	text-decoration: none;

@@ -125,5 +125,6 @@
     <lastmod>2017-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://mavinovitch.github.io/phone/index.html"/>
   </url>
 </urlset>
