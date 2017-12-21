@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #752167;
+	color: #00001A;
+	background-color: #C1E92B;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 1175px;
-	min-height: 1452.6px;
+	width: 728px;
+	min-height: 1458.6px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 69px 570px 195.4000000000001px 155px;
+	padding: 69px 111px 189.4000000000001px;
 }
 
 #slideshowu75
@@ -28,6 +28,7 @@
 	z-index: 2;
 	width: 0.01px;
 	height: 0px;
+	margin-left: 44px;
 	position: relative;
 }
 
@@ -193,8 +194,7 @@
 	z-index: 38;
 	display: block;
 	vertical-align: top;
-	margin-left: 447px;
-	margin-top: 849px;
+	margin-top: 855px;
 	position: relative;
 }
 
@@ -204,14 +204,14 @@
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1082px;
-	left: 680px;
+	top: 1088px;
+	left: 189px;
 }
 
 #ppu230
 {
 	width: 0.01px;
-	margin-left: 525px;
+	margin-left: 78px;
 	margin-top: 7px;
 }
 
@@ -222,8 +222,8 @@
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1097px;
-	left: 793px;
+	top: 1103px;
+	left: 302px;
 	background: url("../images/u230.png") no-repeat 0px 0px;
 }
 
@@ -247,8 +247,8 @@
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1198px;
-	left: 680px;
+	top: 1204px;
+	left: 189px;
 }
 
 #u220:hover,#u239:hover
@@ -264,7 +264,7 @@
 #ppu242
 {
 	width: 0.01px;
-	margin-left: 525px;
+	margin-left: 78px;
 	margin-top: 14px;
 }
 
@@ -275,8 +275,8 @@
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1213px;
-	left: 793px;
+	top: 1219px;
+	left: 302px;
 	background: url("../images/u242.png") no-repeat 0px 0px;
 }
 
@@ -300,14 +300,14 @@
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1329px;
-	left: 680px;
+	top: 1335px;
+	left: 189px;
 }
 
 #ppu246
 {
 	width: 0.01px;
-	margin-left: 525px;
+	margin-left: 78px;
 	margin-top: 29px;
 }
 
@@ -318,8 +318,8 @@
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1329px;
-	left: 793px;
+	top: 1335px;
+	left: 302px;
 	background: url("../images/u246.png") no-repeat 0px 0px;
 }
 
@@ -343,14 +343,14 @@
 	width: 102px;
 	background-color: transparent;
 	position: fixed;
-	top: 1439px;
-	left: 680px;
+	top: 1445px;
+	left: 189px;
 }
 
 #ppu250
 {
 	width: 0.01px;
-	margin-left: 525px;
+	margin-left: 78px;
 	margin-top: 38px;
 }
 
@@ -361,8 +361,8 @@
 	width: 537px;
 	vertical-align: top;
 	position: fixed;
-	top: 1445px;
-	left: 793px;
+	top: 1451px;
+	left: 302px;
 	background: url("../images/u250.png") no-repeat 0px 0px;
 }
 
@@ -398,7 +398,7 @@
 body
 {
 	position: relative;
-	min-width: 1900px;
+	min-width: 950px;
 	padding-top: 36px;
 }
 

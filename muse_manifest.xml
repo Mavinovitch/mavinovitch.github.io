@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513877690432">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513884459436">
   <folder name="css">
     <file name="site_global.css" crc="453118709"/>
-    <file name="index.css" crc="4118094183" ref="index"/>
+    <file name="index.css" crc="448915755" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -46,5 +46,5 @@
     <file name="u250.png" crc="248153083" ref="index"/>
     <file name="u250-r.png" crc="248153083" ref="index"/>
   </folder>
-  <file name="index.html" crc="523531427" seo="true" mt="1513877681989" redirect="true"/>
+  <file name="index.html" crc="315222054" seo="true" mt="1513884421508" redirect="true"/>
 </manifest>
