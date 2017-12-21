@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513872664705">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513873961793">
   <folder name="css">
     <file name="site_global.css" crc="3898624308"/>
     <file name="index.css" crc="4118094183" ref="index"/>
@@ -13,6 +13,7 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="185406856" ref="index"/>
     <file name="dsc01056-hdr.jpg" crc="4016849328" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index"/>
@@ -33,17 +34,17 @@
     <file name="dsc101337.jpg" crc="3903948246" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u180-4.png" crc="3948626508" ref="index"/>
+    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index"/>
     <file name="u230.png" crc="296002593" ref="index"/>
     <file name="u230-r.png" crc="296002593" ref="index"/>
-    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index"/>
     <file name="u242.png" crc="494221020" ref="index"/>
     <file name="u242-r.png" crc="494221020" ref="index"/>
+    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index"/>
     <file name="u246.png" crc="4242133168" ref="index"/>
     <file name="u246-r.png" crc="4242133168" ref="index"/>
-    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index"/>
+    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index"/>
     <file name="u250.png" crc="248153083" ref="index"/>
     <file name="u250-r.png" crc="248153083" ref="index"/>
-    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4294937482" seo="true" mt="1513872486212" redirect="true"/>
+  <file name="index.html" crc="4069767955" seo="true" mt="1513873951920" redirect="true"/>
 </manifest>
