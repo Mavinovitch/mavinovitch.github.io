@@ -1,67 +1,50 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513877463457">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4048446211" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4014530344" seo="true" mt="1513877453885" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513877690432">
   <folder name="css">
     <file name="site_global.css" crc="453118709"/>
     <file name="index.css" crc="4118094183" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index"/>
-    <file name="museutils.js" crc="183364071" ref="index:phone>index"/>
-    <file name="webpro.js" crc="3803554875" ref="index:phone>index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index:phone>index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index:phone>index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index:phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index"/>
-    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="108762733" ref="phone>index"/>
-    <file name="dsc01056-hdr.jpg" crc="410784310" seo="true" ref="index:phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
-    <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index:phone>index"/>
-    <file name="dsc09451.jpg" crc="237111820" seo="true" ref="index:phone>index"/>
+    <file name="favicon.ico" crc="185406856" ref="index"/>
+    <file name="dsc01056-hdr.jpg" crc="4016849328" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index"/>
+    <file name="dsc09451.jpg" crc="237111820" seo="true" ref="index"/>
     <file name="dsc09533.jpg" crc="141909283" seo="true" ref="index"/>
-    <file name="dsc101310.jpg" crc="3766950295" seo="true" ref="index:phone>index"/>
-    <file name="dsc01056-hdr2.jpg" crc="4016849328" seo="true" ref="index"/>
+    <file name="dsc101310.jpg" crc="3766950295" seo="true" ref="index"/>
+    <file name="dsc01056-hdr2.jpg" crc="410784310" seo="true" ref="index"/>
     <file name="dsc012672.jpg" crc="4227438162" seo="true" ref="index"/>
-    <file name="dsc02898.jpg" crc="350440797" seo="true" ref="index:phone>index"/>
-    <file name="dsc09191.jpg" crc="81353656" seo="true" ref="index:phone>index"/>
-    <file name="dsc09261.jpg" crc="4195506967" seo="true" ref="index:phone>index"/>
+    <file name="dsc02898.jpg" crc="350440797" seo="true" ref="index"/>
+    <file name="dsc09191.jpg" crc="81353656" seo="true" ref="index"/>
+    <file name="dsc09261.jpg" crc="4195506967" seo="true" ref="index"/>
     <file name="dsc094512.jpg" crc="237111820" seo="true" ref="index"/>
-    <file name="dsc09725.jpg" crc="158831339" seo="true" ref="index:phone>index"/>
-    <file name="dsc100645.jpg" crc="4269899477" seo="true" ref="index:phone>index"/>
-    <file name="dsc100781.jpg" crc="3861813493" seo="true" ref="index:phone>index"/>
-    <file name="dsc101246.jpg" crc="3976416625" seo="true" ref="index:phone>index"/>
+    <file name="dsc09725.jpg" crc="158831339" seo="true" ref="index"/>
+    <file name="dsc100645.jpg" crc="4269899477" seo="true" ref="index"/>
+    <file name="dsc100781.jpg" crc="3861813493" seo="true" ref="index"/>
+    <file name="dsc101246.jpg" crc="3976416625" seo="true" ref="index"/>
     <file name="dsc1013102.jpg" crc="3766950295" seo="true" ref="index"/>
-    <file name="dsc101337.jpg" crc="3903948246" seo="true" ref="index:phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="dsc101337.jpg" crc="3903948246" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u180-4.png" crc="3948626508" ref="index"/>
-    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index:phone>index"/>
+    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index"/>
     <file name="u230.png" crc="296002593" ref="index"/>
     <file name="u230-r.png" crc="296002593" ref="index"/>
     <file name="u242.png" crc="494221020" ref="index"/>
     <file name="u242-r.png" crc="494221020" ref="index"/>
-    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index:phone>index"/>
+    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index"/>
     <file name="u246.png" crc="4242133168" ref="index"/>
     <file name="u246-r.png" crc="4242133168" ref="index"/>
-    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index:phone>index"/>
+    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index"/>
     <file name="u250.png" crc="248153083" ref="index"/>
     <file name="u250-r.png" crc="248153083" ref="index"/>
-    <file name="u662-4.png" crc="3948626508" ref="phone>index"/>
-    <file name="u663.png" crc="296002593" ref="phone>index"/>
-    <file name="u663-r.png" crc="296002593" ref="phone>index"/>
-    <file name="u668.png" crc="494221020" ref="phone>index"/>
-    <file name="u668-r.png" crc="494221020" ref="phone>index"/>
-    <file name="u669.png" crc="4242133168" ref="phone>index"/>
-    <file name="u669-r.png" crc="4242133168" ref="phone>index"/>
-    <file name="u670.png" crc="248153083" ref="phone>index"/>
-    <file name="u670-r.png" crc="248153083" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="4143085142" seo="true" mt="1513876606458" redirect="true"/>
+  <file name="index.html" crc="523531427" seo="true" mt="1513877681989" redirect="true"/>
 </manifest>
