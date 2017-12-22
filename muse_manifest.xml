@@ -1,50 +1,79 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513884459436">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mavinovitch.github.io" resolutions="1x" timestamp="1513950236965">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3846421285" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="198687870" seo="true" mt="1513950221548" redirect="true"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="453118709"/>
+    <file name="site_global.css" crc="382222174"/>
     <file name="index.css" crc="448915755" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
-    <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="webpro.js" crc="3803554875" ref="index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index"/>
+    <file name="museutils.js" crc="183364071" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:phone>index"/>
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="185406856" ref="index"/>
-    <file name="dsc01056-hdr.jpg" crc="4016849328" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index"/>
-    <file name="dsc09451.jpg" crc="237111820" seo="true" ref="index"/>
-    <file name="dsc09533.jpg" crc="141909283" seo="true" ref="index"/>
-    <file name="dsc101310.jpg" crc="3766950295" seo="true" ref="index"/>
-    <file name="dsc01056-hdr2.jpg" crc="410784310" seo="true" ref="index"/>
-    <file name="dsc012672.jpg" crc="4227438162" seo="true" ref="index"/>
-    <file name="dsc02898.jpg" crc="350440797" seo="true" ref="index"/>
-    <file name="dsc09191.jpg" crc="81353656" seo="true" ref="index"/>
-    <file name="dsc09261.jpg" crc="4195506967" seo="true" ref="index"/>
-    <file name="dsc094512.jpg" crc="237111820" seo="true" ref="index"/>
-    <file name="dsc09725.jpg" crc="158831339" seo="true" ref="index"/>
-    <file name="dsc100645.jpg" crc="4269899477" seo="true" ref="index"/>
-    <file name="dsc100781.jpg" crc="3861813493" seo="true" ref="index"/>
-    <file name="dsc101246.jpg" crc="3976416625" seo="true" ref="index"/>
-    <file name="dsc1013102.jpg" crc="3766950295" seo="true" ref="index"/>
-    <file name="dsc101337.jpg" crc="3903948246" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="favicon.ico" crc="108762733" ref="phone>index"/>
+    <file name="dsc01056-hdr.jpg" crc="4016849328" seo="true" ref="index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="dsc01267.jpg" crc="4227438162" seo="true" ref="index:phone>index"/>
+    <file name="dsc09451.jpg" crc="237111820" seo="true" ref="index:phone>index"/>
+    <file name="dsc09533.jpg" crc="141909283" seo="true" ref="index:phone>index"/>
+    <file name="dsc101310.jpg" crc="3766950295" seo="true" ref="index:phone>index"/>
+    <file name="dsc01056-hdr2.jpg" crc="410784310" seo="true" ref="index:phone>index"/>
+    <file name="dsc012672.jpg" crc="4227438162" seo="true" ref="index:phone>index"/>
+    <file name="dsc02898.jpg" crc="350440797" seo="true" ref="index:phone>index"/>
+    <file name="dsc09191.jpg" crc="81353656" seo="true" ref="index:phone>index"/>
+    <file name="dsc09261.jpg" crc="4195506967" seo="true" ref="index:phone>index"/>
+    <file name="dsc094512.jpg" crc="237111820" seo="true" ref="index:phone>index"/>
+    <file name="dsc09725.jpg" crc="158831339" seo="true" ref="index:phone>index"/>
+    <file name="dsc100645.jpg" crc="4269899477" seo="true" ref="index:phone>index"/>
+    <file name="dsc100781.jpg" crc="3861813493" seo="true" ref="index:phone>index"/>
+    <file name="dsc101246.jpg" crc="3976416625" seo="true" ref="index:phone>index"/>
+    <file name="dsc1013102.jpg" crc="3766950295" seo="true" ref="index:phone>index"/>
+    <file name="dsc101337.jpg" crc="3903948246" seo="true" ref="index:phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
     <file name="u180-4.png" crc="3948626508" ref="index"/>
-    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index"/>
+    <file name="blogger_iconsvg.png" crc="4094092344" seo="true" ref="index:phone>index"/>
     <file name="u230.png" crc="296002593" ref="index"/>
     <file name="u230-r.png" crc="296002593" ref="index"/>
     <file name="u242.png" crc="494221020" ref="index"/>
     <file name="u242-r.png" crc="494221020" ref="index"/>
-    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index"/>
+    <file name="2000px-youtube_play_buttom_icon_(2013-2017)svg.png" crc="299946699" seo="true" ref="index:phone>index"/>
     <file name="u246.png" crc="4242133168" ref="index"/>
     <file name="u246-r.png" crc="4242133168" ref="index"/>
-    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index"/>
+    <file name="twitter_bird_logo_2012svg.png" crc="3808707134" seo="true" ref="index:phone>index"/>
     <file name="u250.png" crc="248153083" ref="index"/>
     <file name="u250-r.png" crc="248153083" ref="index"/>
+    <file name="phone_dsc01056-hdr.jpg" crc="4205772232" seo="true" ref="phone>index"/>
+    <file name="phone_dsc01267.jpg" crc="486666731" seo="true" ref="phone>index"/>
+    <file name="phone_dsc02898.jpg" crc="4095159500" seo="true" ref="phone>index"/>
+    <file name="phone_dsc09191.jpg" crc="131024152" seo="true" ref="phone>index"/>
+    <file name="phone_dsc09261.jpg" crc="121636964" seo="true" ref="phone>index"/>
+    <file name="phone_dsc09451.jpg" crc="61822721" seo="true" ref="phone>index"/>
+    <file name="phone_dsc09725.jpg" crc="4235899984" seo="true" ref="phone>index"/>
+    <file name="phone_dsc100645.jpg" crc="316742664" seo="true" ref="phone>index"/>
+    <file name="phone_dsc100781.jpg" crc="429845872" seo="true" ref="phone>index"/>
+    <file name="phone_dsc101246.jpg" crc="51507812" seo="true" ref="phone>index"/>
+    <file name="phone_dsc101310.jpg" crc="505166852" seo="true" ref="phone>index"/>
+    <file name="phone_dsc101337.jpg" crc="353702499" seo="true" ref="phone>index"/>
+    <file name="u999-4.png" crc="352599009" ref="phone>index"/>
+    <file name="u887.png" crc="223097378" ref="phone>index"/>
+    <file name="u887-r.png" crc="223097378" ref="phone>index"/>
+    <file name="u892.png" crc="285291821" ref="phone>index"/>
+    <file name="u892-r.png" crc="285291821" ref="phone>index"/>
+    <file name="u893.png" crc="4087554538" ref="phone>index"/>
+    <file name="u893-r.png" crc="4087554538" ref="phone>index"/>
+    <file name="u894.png" crc="190847217" ref="phone>index"/>
+    <file name="u894-r.png" crc="190847217" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="315222054" seo="true" mt="1513884421508" redirect="true"/>
+  <file name="index.html" crc="444292385" seo="true" mt="1513948630478" redirect="true"/>
 </manifest>
