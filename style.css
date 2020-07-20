@@ -1,7 +1,8 @@
 .start {
 	font-family: 'Montserrat', sans-serif;
 	width: 100%;
-	height: 3em;
+	height: 2em;
+	margin-bottom: -10px;
 }
 
 .start a {
@@ -10,7 +11,7 @@
 }
 
 .links {
-	font-size: 2.5em;
+	font-size: 1.5em;
 	color: #FAFAFA;
 	margin: 10px;
 	margin-top: 12px;
@@ -45,7 +46,7 @@
 	font-family: 'Montserrat', sans-serif;
 	font-size: 2em;
 	color: #FAFAFA;
-	margin-bottom: -8px;
+	margin-bottom: 5px;
 	margin-left: 1px;
 	margin-top: 5px;
 }
@@ -59,6 +60,7 @@ hr {
 	width: auto;
 	margin-top: -1px;
 	margin-left: 1px;
+	margin-bottom: 8px;
 }
 
 .photocontainer {
@@ -69,7 +71,7 @@ hr {
 	grid-auto-flow: dense;
 }
 
-.imagever {
+.img1x3 {
 	display: grid;
 	grid-gap: 1px;
 	grid-area: span 3;
@@ -77,7 +79,7 @@ hr {
 	grid-auto-rows: 250px;
 	grid-auto-flow: dense;
 }
-.imagever2 {
+.img1x2 {
 	display: grid;
 	grid-gap: 1px;
 	grid-area: span 2;
@@ -86,7 +88,7 @@ hr {
 	grid-auto-flow: dense;
 }
 
-.imagepan {
+.img3x1 {
 	display: grid;
 	grid-gap: 1px;
 	grid-area: span 1 / span 3;
@@ -96,17 +98,17 @@ hr {
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagepan{
+	.img3x1{
 		grid-area: span 1 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagepan{
+	.img3x1{
 		grid-area: auto;
 	}
 }
-.imagepan2 {
+.img2x1 {
 	display: grid;
 	grid-gap: 1px;
 	grid-area: span 1 / span 2;
@@ -116,12 +118,12 @@ hr {
 }
 
 @media only screen and (max-width: 833px) {
-	.imagepan2{
+	.img2x1{
 		grid-area: auto;
 	}
 }
 
-.imagehigh2 {
+.img2x2 {
 	display: grid;
 	grid-gap: 1px;
 	grid-area: span 2 / span 2;
@@ -131,18 +133,18 @@ hr {
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagehigh2{
+	.img2x2{
 		grid-area: span 2 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagehigh2{
+	.img2x2{
 		grid-area: auto;
 	}
 }
 
-.imagehigh3 {
+.img3x3 {
 	display: grid;
 	grid-gap: 0px;
 	grid-area: span 3 / span 3;
@@ -152,120 +154,120 @@ hr {
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagehigh3{
+	.img3x3{
 		grid-area: span 2 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagehigh3{
+	.img3x3{
 		grid-area: auto;
 	}
 }
 
-.imagever a {
+.img1x3 a {
 	grid-area: span 3;
 }
 
-.imagever2 a {
+.img1x2 a {
 	grid-area: span 2;
 }
 
-.imagepan a {
+.img3x1 a {
 	grid-area: span 1 / span 3;
 }
 
-.imagepan2 a {
+.img2x1 a {
 	grid-area: span 1 / span 2;
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagepan a {
+	.img3x1 a {
 		grid-area: span 1 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagepan a {
+	.img3x1 a {
 		grid-area: auto;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagepan2 a {
+	.img2x1 a {
 		grid-area: auto;
 	}
 }
 
-.imagehigh2 a {
+.img2x2 a {
 	grid-area: span 2 / span 2;
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagehigh2 a {
+	.img2x2 a {
 		grid-area: span 2 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagehigh2 a {
+	.img2x2 a {
 		grid-area: auto;
 	}
 }
 
-.imagehigh3 a {
+.img3x3 a {
 	grid-area: span 3 / span 3;
 }
 
 @media only screen and (max-width: 1234px) {
-	.imagehigh3 a {
+	.img3x3 a {
 		grid-area: span 2 / span 2;
 	}
 }
 
 @media only screen and (max-width: 833px) {
-	.imagehigh3 a {
+	.img3x3 a {
 		grid-area: auto;
 	}
 }
 
-.image img {
+.img1x1 img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.imagever img {
+.img1x3 img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.imagever2 img {
+.img1x2 img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.imagepan img {
+.img3x1 img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
 
-.imagepan2 img {
+.img2x1 img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
 
-.imagehigh2 img {
+.img2x2 img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
 
-.imagehigh3 img {
+.img3x3 img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
