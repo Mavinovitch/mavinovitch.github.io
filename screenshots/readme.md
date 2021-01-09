@@ -1,1 +1,1 @@
-screenshot galleries for different games an screenshot index
+screenshot galleries for different games and screenshot index
