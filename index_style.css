@@ -1,0 +1,107 @@
+/*Titel and Links*/
+.maintitle {
+	font-size: clamp(1.5rem, 4.5rem, 7rem);
+	position: absolute;
+	left: 50%;
+	top: 3%;
+	transform: translate(-50%);
+	white-space: nowrap;
+}
+
+.mainlinks {
+	font-size: 1.5em;
+	position: absolute;
+	bottom: 3%;
+	left: 50%;
+	transform: translate(-50%);
+	background-color: rgb(33,33,33,0.3);
+}
+
+.twitter {
+	float: left;
+	margin: 10px;
+}
+.twitter a:hover {
+	color: #1DA1F2;
+}
+
+.youtube {
+	float: left;
+	margin: 10px;
+}
+.youtube a:hover {
+	color: #FF0000;
+}
+
+.blogger {
+	float: left;
+	margin: 10px;
+}
+
+.blogger a:hover {
+	color: #ff7144;
+}
+
+/**/
+body {
+	margin: 0px;
+}
+
+* button {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	height: 2em;
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+	border: none;
+	outline: none;
+	background-color: rgb(33,33,33,0.3);
+	color: #FAFAFA;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 2em;
+	transition-duration: 0.2s;
+}
+
+* button:hover {
+	background-color: rgb(33,33,33,0.6);
+}
+
+* button:active {
+	padding: 0px;
+}
+
+/*Background Images*/
+.bg {
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+}
+
+.bgleft {
+	width: 50%;
+	height: 100%;
+	position: absolute;
+}
+
+.bgleft img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.bgright {
+	width: 50%;
+	height: 100%;
+	position: absolute;
+	left: 50%;
+}
+
+.bgright img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
