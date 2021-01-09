@@ -1,0 +1,17 @@
+.titel {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	color: #FAFAFA;
+	margin-bottom: 5px;
+	margin-left: 1px;
+	margin-top: 5px;
+}
+
+hr {
+	color: #FAFAFA;
+	width: auto;
+	margin-top: -1px;
+	margin-left: 1px;
+	margin-bottom: 8px;
+}
