@@ -1,0 +1,32 @@
+/* Source: https://www.w3schools.com/howto/howto_css_fixed_menu.asp */
+
+.navbar {
+	overflow: hidden;
+	background-color: #212121;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding-left: 10px;
+}
+
+.navbar a {
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	color: #FAFAFA;
+	text-align: center;
+	padding: 10px 5px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background: #FAFAFA;
+	color: #212121;
+}
+
+#location {
+	cursor: default;
+}
+
+.main {
+	margin-top: 40px;
+} 

@@ -1,0 +1,11 @@
+/*Stylesheet that applies to all html documents*/
+html {
+	font-family: 'Montserrat', sans-serif;
+	color: #FAFAFA;
+	background-color: #212121;
+}
+
+* a {
+	color: #FAFAFA;
+	text-decoration: none;
+}
