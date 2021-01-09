@@ -1,1 +1,1 @@
-General stylesheet for all pages
+General stylesheets for all pages
