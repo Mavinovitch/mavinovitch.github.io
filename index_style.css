@@ -1,6 +1,6 @@
 /*Titel and Links*/
 .maintitle {
-	font-size: clamp(1.5rem, 4.5rem, 7rem);
+	font-size: 4em;
 	position: absolute;
 	left: 50%;
 	top: 3%;
@@ -9,33 +9,34 @@
 }
 
 .mainlinks {
-	font-size: 1.5em;
+	font-size: 1.4em;
 	position: absolute;
 	bottom: 3%;
 	left: 50%;
 	transform: translate(-50%);
 	background-color: rgb(33,33,33,0.3);
+	white-space: nowrap;
 }
 
 .twitter {
-	float: left;
 	margin: 10px;
+	display: inline-block;
 }
 .twitter a:hover {
 	color: #1DA1F2;
 }
 
 .youtube {
-	float: left;
 	margin: 10px;
+	display: inline-block;
 }
 .youtube a:hover {
 	color: #FF0000;
 }
 
 .blogger {
-	float: left;
 	margin: 10px;
+	display: inline-block;
 }
 
 .blogger a:hover {
@@ -61,7 +62,7 @@ body {
 	color: #FAFAFA;
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	font-size: 2em;
+	font-size: 2.2em;
 	transition-duration: 0.2s;
 }
 
