@@ -33,9 +33,16 @@
 	grid-auto-flow: dense;
 }
 
-@media only screen and (max-width: 1234px) {
+@media only screen and (max-width: 1628px) {
 	.img4x1{
 		grid-area: span 1 / span 3;
+	}
+}
+
+
+@media only screen and (max-width: 1234px) {
+	.img4x1{
+		grid-area: span 1 / span 2;
 	}
 }
 
@@ -142,9 +149,15 @@
 	grid-area: span 1 / span 2;
 }
 
+@media only screen and (max-width: 1628px) {
+	.img4x1 a{
+		grid-area: span 1 / span 3;
+	}
+}
+
 @media only screen and (max-width: 1234px) {
 	.img4x1 a {
-		grid-area: span 1 / span 3;
+		grid-area: span 1 / span 2;
 	}
 }
 
