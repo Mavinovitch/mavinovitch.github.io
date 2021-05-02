@@ -3,9 +3,8 @@
 	font-family: 'Montserrat', sans-serif;
 	font-size: 2em;
 	color: #FAFAFA;
-	margin-bottom: 5px;
-	margin-left: 1px;
-	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 
 hr {
@@ -13,5 +12,5 @@ hr {
 	width: auto;
 	margin-top: -1px;
 	margin-left: 1px;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 }
